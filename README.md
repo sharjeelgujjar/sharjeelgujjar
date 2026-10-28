@@ -139,17 +139,6 @@ B2B SalesTech SaaS platform that helps SDRs and sales managers streamline outbou
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sharjeelgujjar&theme=nord&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelgujjar&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="100%" />
 
 </div>
 
