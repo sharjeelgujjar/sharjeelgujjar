@@ -55,6 +55,7 @@ AI-powered business intelligence and automation platform that helps ready-mix co
 
 | Layer | Technology |
 | :--- | :--- |
+| Product | Estimation Platform for Conductors |
 | Frontend | React |
 | AI / ML | Python, TensorFlow |
 | Cloud | AWS |
