@@ -47,57 +47,6 @@ const sharjeel = {
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏗️ C60 — AI-Powered Business Intelligence & Automation Platform for RMC
-
-AI-powered business intelligence and automation platform that helps ready-mix concrete businesses turn operational data into actionable insights, with cost prediction, performance analysis, and intelligent decision-making.
-
-| Layer | Technology |
-| :--- | :--- |
-| Product | Estimation Platform for Conductors |
-| Frontend | React |
-| AI / ML | Python, TensorFlow |
-| Cloud | AWS |
-| Focus | Predictive Analytics, Business Intelligence, Automation, Data Processing, SaaS |
-
----
-
-### 🅿️ X-Park Airport — Airport Parking & Booking Platform
-
-Web-based platform that lets travelers search, compare, and reserve parking services around the airport, with responsive booking flows and reliable reservation workflows on the backend.
-
-| Layer | Technology |
-| :--- | :--- |
-| Product | Web Application |
-| Core Features | Parking Discovery, Availability, Online Booking |
-| Backend | Reservation Management, Payment Integration |
-
----
-
-### 📚 Scrively — AI-Powered Personalized Children's Book Platform
-
-AI platform that turns simple story ideas into personalized children's books, generating stories, illustrations, and customized characters in a range of art styles. Includes AI narration, background music, sound effects, downloadable books, and print-ready hardcover versions.
-
-| Layer | Technology |
-| :--- | :--- |
-| AI Content | Generative AI, AI Image Generation |
-| Personalization | Character Personalization, Interactive Storytelling |
-| Product | SaaS, Digital Book Creation |
-
----
-
-### 📈 Crono — AI Sales Execution & CRM Platform
-
-B2B SalesTech SaaS platform that helps SDRs and sales managers streamline outbound sales and manage prospecting workflows. I contributed to the MVP and improved key product flows, navigation, and UI components, resulting in a **tenfold increase in daily users**.
-
-| Layer | Technology |
-| :--- | :--- |
-| Product | B2B SalesTech SaaS, CRM |
-| My Role | MVP Development, UX-to-UI Implementation |
-| Result | 10x increase in daily users |
-
----
 
 ## 🛠️ Tech Stack
 
