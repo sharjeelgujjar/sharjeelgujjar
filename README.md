@@ -23,72 +23,14 @@
 
 ```typescript
 const sharjeel = {
-  title: "Full Stack Developer",
+  title: "Full Stack AI Engineer",
   stack: [
     "React", "Next.js", "TypeScript", "Node.js", "Express",
     "Python", "PostgreSQL", "MongoDB", "AWS", "Docker",
   ],
-  launchedProjects: [
-    "C60 AI",
-    "X-Park Airport",
-    "Scrively",
-    "Crono",
-  ],
-  certifications: [
-    "Meta Back-End Developer Professional Certificate",
-    "AWS Certified AI Practitioner",
-    "Google Cloud Professional Cloud Developer",
-    "Azure AI Engineer Associate (AI-102)",
-  ],
   status: "Open to work",
   openTo: ["Full Stack Developer roles"],
 };
-```
-
 ---
-
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" alt="Languages" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Frontend" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker&theme=dark" alt="Cloud and DevOps" />
-
-**AI & Databases**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,postgres,mongodb,mysql&theme=dark" alt="AI and Databases" />
-
-**Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Dev Tools" />
-
-
-</div>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/muhammad-sharjeel-work/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=140&section=footer" alt="Footer" width="100%" />
 
 </div>
